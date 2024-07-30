@@ -9,13 +9,6 @@ This project simulates various types of oscillators using MATLAB, including the 
   - [Colpitts Oscillator](#colpitts-oscillator)
   - [Hartley Oscillator](#hartley-oscillator)
   - [RC Phase Shift Oscillator](#rc-phase-shift-oscillator)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Parameters](#parameters)
-- [Frequency Analysis](#frequency-analysis)
-- [User Interface](#user-interface)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -65,13 +58,3 @@ The RC phase shift oscillator uses resistors and capacitors to produce a phase s
 - **Output:**
   - Output voltage
   - Voltage across each RC stage
-
-## Installation
-
-To run these simulations, you need MATLAB installed on your system. You can download MATLAB from the [MathWorks website](https://www.mathworks.com/products/matlab.html).
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/oscillators-simulation-matlab.git
-cd oscillators-simulation-matlab
